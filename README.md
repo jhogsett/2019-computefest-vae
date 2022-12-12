@@ -8,11 +8,14 @@ I had to make a few changes to run the notebook (marked JH)
 Their website and YouTube video
 * https://www.computefest.seas.harvard.edu/past-events#:~:text=HANDS%2DON%20WORKSHOP-,ComputeFest%202019,-SYMPOSIUM%20%2D%C2%A0DATA%20SCIENCE
 * https://www.youtube.com/watch?v=YMC-dehNLBE
+* CelebA dataset https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 ## My Setup
 * Windows 10
 * RTX 2080 Ti GPU
 * Anaconda / Jupyter Notebook
+* Python 3.9.15
+* CUDA 11.7
 
 ## My Observations
 
